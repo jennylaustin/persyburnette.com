@@ -8,6 +8,7 @@ author:
 categories:
   - Updates
 image: "/IMG_9014.jpg"
+description: Persy Burnette was diagnosed with stage IV neuroblastoma at age 2 1/2 and is beginning his fight against cancer. 
 ---
 
 Persy is a sweet, funny, smart 2 ½ year old boy who loves his family
