@@ -8,6 +8,7 @@ author:
 categories:
   - Updates
 image: "/IMG_1454.jpeg"
+description: Although we never could have dreamed up the nightmare we find ourselves in this Thanksgiving, we are more grateful than ever.
 ---
 
 Although we never could have dreamed up the nightmare we find ourselves in this
