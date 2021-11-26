@@ -8,6 +8,7 @@ author:
 categories:
   - Updates
 comment_for_persy: true
+description: Persy began his first cycle of chemo today. 
 ---
 
 Things have progressed very quickly since coming to the hospital. It’s
