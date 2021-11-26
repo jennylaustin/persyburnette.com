@@ -7,7 +7,9 @@ Author:
   email: ryan.burnette@gmail.com
 Params:
   gravatar: true
-  suggest_edit: false
+  git_repo: "https://github.com/ryanburnette/persyburnette.org"
+  git_branch: "main"
+  git_host: "github"
   disqus_url: true
   disqus_default: true
 markup:
