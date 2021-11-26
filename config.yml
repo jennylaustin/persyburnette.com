@@ -1,0 +1,16 @@
+languageCode: en-us
+title: Prayers for Persy
+theme: eon
+baseURL: 'https://persyburnette.org'
+Author:
+  name: Ryan Burnette
+  email: ryan.burnette@gmail.com
+Params:
+  gravatar: true
+  suggest_edit: false
+  disqus_url: true
+  disqus_default: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

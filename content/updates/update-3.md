@@ -1,0 +1,82 @@
+---
+title: Update 3
+type: blog
+date: 2021-11-23
+author:
+  name: Jenny Austin
+  email: jennylaustin@gmail.com
+categories:
+  - Updates
+---
+
+Today was another rough day for our little warrior, Persy. After some triumphs
+yesterday, he had a difficult night of restlessness and agitation that
+unfortunately continued throughout the day. Our sweet lil love just can’t get
+comfortable making it impossible for him to settle down and get the rest that
+he so desperately needs. Poor P spent much of last night and most of today
+tossing and turning, rolling this way and that, standing up and flopping down.
+Unfortunately all this movement and agitation often causes his lines to get
+tangled and his sensors and IVs to get tugged, causing him even more pain.
+Because Persy was so agitated, someone had to essentially stand over him and
+attend to him constantly to keep him safe. This causes Brittany and Ryan so
+much stress and anxiety seeing their baby so inconsolable and upset. They are
+exhausted emotionally and physically but not too tired to keep fighting and
+advocating for their boy. I am so proud and amazed by their strength every day.
+
+Persy was finally able to settle down this afternoon during a visit with the
+music therapist who stayed at his bedside for over an hour. She played the
+sweetest lil tunes that calmed our precious boy and allowed not only him to
+relax but Ryan and Brittany too. The only other thing that calmed Persy besides
+this was some videos on Britt’s phone of his bubba, Kep and his best good bud,
+Myles.
+
+Persy had to be sedated again today for his MIBG scan, a special nuclear
+medicine scan used to detect the presence of neuroblastoma not revealed by the
+MRI or CT.  Brittany was able to hold her boy and be with him as they lulled
+Persy to sleep. We are praying that Persy is “avid” and responds to the test as
+this would make him eligible for participation in a special MIBG treatment.
+More on this later…
+
+Lastly, while he was sedated, Persy had a nasogastric tube (NGT) placed, a
+small tube that is inserted through his nose and travels to his tummy. Persy is
+able to get his medicine and nutrition through this tube when he is not up to
+taking food/drink by mouth, which may become even more of an issue as he
+continues his chemo treatments.
+
+### Little victories
+
+- Persy made it through his second chemo treatment and is on his way to a full
+  recovery!!
+- Persy’s swelling went down today and the nurses reported that he put out more
+  fluid than he took in!
+- Persy’s NGT will give him more freedom to eat or not eat depending on how
+  he's feeling.
+- Persy allowed Brittany to hold and cuddle him as he was sedated for his scan.
+- Persy pooped a little more today.
+- Even though Persy is agitated, he is showing us he is a fighter and still has
+  his spunk!
+
+### Please pray
+
+- For his agitation to decrease and for Persy to be more comfortable.
+- For Persy’s swelling to continue to go down. This is especially crucial given
+  that he’s now getting chemo.
+- For his body to respond to the chemo and specifically that the chemo
+  obliterates all the metastatic cancer sites in his body.
+- For his cancer to be attacked by the chemo, but for his precious body to be
+  protected from the damage caused by the toxic chemicals.
+
+God our Refuge, we intercede for our sweet Persy and his family who are going
+through this treatment for cancer. Lord, may You cover them with a blanket of
+peace. May Persy, Britt and Ryan rest in confidence that You are sovereign over
+this situation. Even though their life has been turned upside down and
+unsettling things are happening, remind them that You hold Persy in your loving
+arms. Let them know You love him and are caring for him throughout this
+journey. Amen.
+
+### Comments from Caring Bridge
+
+We have transferred our content from Caring Bridge. We appreciate you using this website instead.
+If you made a comment on that site, please make it again here if possible.
+
+![](/caringbridge-comments-updates-3.png)

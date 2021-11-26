@@ -1,0 +1,20 @@
+<div class="hero">
+  <div class="container">
+    {{ if (isset .Params "hero1" ) }}
+      <div class="hero1">
+        <img src="/logo.png" alt="Prayers for Persy" style="width:24rem;max-width:100%;">
+      </div>
+    {{ else }}
+      <h1>
+        {{ if (isset .Params "hero_title" ) }}
+          {{ .Params.hero_title }}
+        {{ else }}
+          {{ .Title }}
+        {{ end }}
+      </h1>
+      {{ if (isset .Params "hero_content" ) }}
+        <h2 class="is-size-5">{{ .Params.hero_content }}</h2>
+      {{ end }}
+    {{ end }}
+  </div>
+</div>
