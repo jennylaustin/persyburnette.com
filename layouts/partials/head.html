@@ -37,7 +37,7 @@
 {{ if isset .Params "image" }}
 <meta property="og:image" content="{{ .Params.image | absURL }}" />
 {{ end }}
-<meta property="og:url" content="{{ $.Page.Params.Permalink | absURL }}" />
+<meta property="og:url" content="{{ .Permalink | absURL }}" />
 
 <link rel="stylesheet" href='{{ "style.css" | absURL }}' />
 
