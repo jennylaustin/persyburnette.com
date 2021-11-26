@@ -1,0 +1,19 @@
+{{ define "main" }}
+<section class="section default-single">
+  <div class="container">
+    <div class="content">
+      {{ partial "postmeta-head" . }}
+      <div class="single-title">
+        {{ partial "title" . }}
+      </div>
+      {{ if isset .Params "image" }}
+        <p class="featured-image">
+          <img src="{{ .Params.image | absURL }}" alt="{{ .Title }}">
+        </p>
+      {{ end }}
+      {{ .Content }}
+      {{ partial "postmeta-foot" . }}
+    </div>
+  </div>
+</section>
+{{ end }}

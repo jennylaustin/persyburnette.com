@@ -1,13 +1,13 @@
 languageCode: en-us
 title: Prayers for Persy
 theme: eon
-baseURL: 'https://persyburnette.org'
+baseURL: 'https://persyburnette.com'
 Author:
   name: Ryan Burnette
   email: ryan.burnette@gmail.com
 Params:
   gravatar: true
-  git_repo: "https://github.com/ryanburnette/persyburnette.org"
+  git_repo: "https://github.com/ryanburnette/persyburnette.com"
   git_branch: "main"
   git_host: "github"
   disqus_url: true

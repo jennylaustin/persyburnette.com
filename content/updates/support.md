@@ -1,6 +1,6 @@
 ---
-title: How To Follow and Support Persy
-date: 2021-11-25
+title: How To Support and Follow Persy
+date: 2021-11-26
 type: blog
 categories:
   - Support

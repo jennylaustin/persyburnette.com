@@ -1,0 +1,2 @@
+#!/bin/bash
+rsync -av public/ app@srv.therootcompany.com:/home/app/srv/www/persyburnette.com/

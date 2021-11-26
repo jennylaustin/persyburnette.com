@@ -1,5 +1,5 @@
 ---
-title: Update 1
+title: Persy's Story
 date: 2021-11-21
 type: blog
 author:
@@ -7,6 +7,7 @@ author:
   email: jennylaustin@gmail.com
 categories:
   - Updates
+image: "/IMG_9014.jpg"
 ---
 
 Persy is a sweet, funny, smart 2 ½ year old boy who loves his family
@@ -24,7 +25,6 @@ chapter in their lives. Ryan no longer had to commute and was so happy to have
 his family close by in their beautiful new home. Brittany was loving being home
 with her 2 babies, having taken a break from teaching. And Persy had started at
 a new preschool and was loving his “new house.” Life was pretty sweet.
-
 
 A few weeks after the move on October 20th, Brittany noticed a lump on Persy’s
 right shoulder. They took him to the pediatrician, his shoulder was x-rayed and

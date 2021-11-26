@@ -1,12 +1,13 @@
 ---
-title: Update, November 23, 2021
-date: 2021-11-23
+title: Beginning Treatment
+date: 2021-11-22
 type: blog
 author:
   name: Jenny Austin
   email: jennylaustin@gmail.com
 categories:
   - Updates
+comment_for_persy: true
 ---
 
 Things have progressed very quickly since coming to the hospital. It’s
@@ -26,7 +27,7 @@ end. They were able to have all of their questions answered and feel empowered
 that they will beat this. They were told that Persy would begin his first cycle
 of chemo later this evening.
 
-### Little victories!
+### Little victories
 
 - Persy made it through his first chemo treatment and is on his way to a full
   recovery!!
@@ -36,7 +37,7 @@ of chemo later this evening.
 - Brittany let us know that Persy acted a bit more like himself and “it was a
   blessing to see a glimpse of ‘our’ little boy again.”
 
-### Please pray…
+### Please pray
 
 - For Persy’s swelling to continue to go down. This is especially crucial given
   that he’s now getting chemo.
@@ -45,15 +46,15 @@ of chemo later this evening.
 - For his cancer to be attacked by the chemo, but for his precious body to be
   protected from the damage caused by the toxic chemicals.
 
-Lord of steadfast love, we ask that You give peace to our Persy while he is
-staying in the hospital. He is missing all the comforts of home and going
-through such an uncomfortable time. Ease his distress and help him to feel safe
-and loved. Take away any worries he might have. And Lord, help Brittany and
-Ryan to remain hopeful and confident throughout this journey, as they are only
-just beginning. May we continue to see more and more glimpses of our sweet
-Persy. And may he come home soon. In Your Holy Name we pray. Amen.
+> Lord of steadfast love, we ask that You give peace to our Persy while he is
+> staying in the hospital. He is missing all the comforts of home and going
+> through such an uncomfortable time. Ease his distress and help him to feel
+> safe and loved. Take away any worries he might have. And Lord, help Brittany
+> and Ryan to remain hopeful and confident throughout this journey, as they are
+> only just beginning. May we continue to see more and more glimpses of our
+> sweet Persy. And may he come home soon. In Your Holy Name we pray. Amen.
 
-### Comments
+### Previous Comments
 
 The following are comments that we copied over from Caring Bridge where this
 was originally posted.  We encourage anyone who commented to re-make their

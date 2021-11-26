@@ -6,7 +6,8 @@ description: Sign up for email updates about Persy Burnette's fight with cancer.
 <div >
   <p style="font-size:1.5rem;text-align:center;">
     As we post our updates on Persy's fight with cancer, we will also send them
-    out to everyone on our email list. Sign up to stay up-to-date.
+    out to everyone on our email list.
+    Sign up for the list to stay up-to-date.
   </p>
 </div>
 

@@ -1,5 +1,5 @@
 ---
-title: Update, November 25, 2021
+title: Thanksgiving
 type: blog
 date: 2021-11-25
 author:
@@ -7,9 +7,8 @@ author:
   email: jennylaustin@gmail.com
 categories:
   - Updates
+image: "/IMG_1454.jpeg"
 ---
-
-![](/IMG_1454.jpeg)
 
 Although we never could have dreamed up the nightmare we find ourselves in this
 Thanksgiving, we are more grateful than ever. The outpouring of love and
@@ -59,9 +58,9 @@ does not resolve with medicine alone.
 - For his cancer to be attacked by the chemo, but for his precious body to be
   protected from the damage caused by the toxic chemicals.
 
-Gracious Lord, we thank You that You are a merciful God who cares for, loves,
-and protects little children and that You hear and answer our prayers. We thank
-you for letting us see that we are blessed beyond measure even in difficult
-times. Keep our precious lamb, Persy, enfolded in your sheltering arms and
-resting in your grace. Bring him back to full health, we pray. We give You
-thanks for You are good and Your mercy endures forever. Amen.
+> Gracious Lord, we thank You that You are a merciful God who cares for, loves,
+> and protects little children and that You hear and answer our prayers. We
+> thank you for letting us see that we are blessed beyond measure even in
+> difficult times. Keep our precious lamb, Persy, enfolded in your sheltering
+> arms and resting in your grace. Bring him back to full health, we pray. We
+> give You thanks for You are good and Your mercy endures forever. Amen.
